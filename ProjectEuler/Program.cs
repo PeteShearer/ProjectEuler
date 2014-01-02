@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace ProjectEuler
 {
@@ -9,7 +6,14 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ProblemSix.Solve(100));
+            //Console.WriteLine(ProblemOne.Solve());
+            //Console.WriteLine(ProblemOne.SolveWithLinq());
+            //Console.WriteLine(ProblemTwo.Solve());
+            //Console.WriteLine(ProblemThree.Solve());
+            //Console.WriteLine(ProblemFour.Solve());
+            //Console.WriteLine(ProblemFive.Solve(20));
+            //Console.WriteLine(ProblemFive.SolveBruteForce());
+            //Console.WriteLine(ProblemSix.Solve(100));
         }
     }
 }

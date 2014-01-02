@@ -41,7 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PrimeFactors.cs" />
+    <Compile Include="PrimeNumbers.cs" />
+    <Compile Include="ProblemFive.cs" />
+    <Compile Include="ProblemFour.cs" />
+    <Compile Include="ProblemOne.cs" />
     <Compile Include="ProblemSix.cs" />
+    <Compile Include="ProblemThree.cs" />
+    <Compile Include="ProblemTwo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
