@@ -14,6 +14,7 @@ namespace ProjectEuler
             //Console.WriteLine(ProblemFive.Solve(20));
             //Console.WriteLine(ProblemFive.SolveBruteForce());
             //Console.WriteLine(ProblemSix.Solve(100));
+            //Console.WriteLine(ProblemSeven.Solve());
         }
     }
 }

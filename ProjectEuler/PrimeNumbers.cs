@@ -11,7 +11,7 @@ namespace ProjectEuler
 
             for (int i = 2; i <= upToNumber; i++)
             {
-                if (isPrime(i))
+                if (IsPrime(i))
                 {
                     primeNumbers.Add(i);
                 }
@@ -20,7 +20,7 @@ namespace ProjectEuler
             return primeNumbers;
         }
 
-        private static bool isPrime(int number)
+        public static bool IsPrime(int number)
         {
             if (number == 1) return false;
             if (number == 2) return true;
@@ -28,7 +28,7 @@ namespace ProjectEuler
 
             var isPrime = true;
             var max = (int)Math.Sqrt(number);
-            for (int i = 2; i < max; i++)
+            for (int i = 2; i <= max; i++)
             {
                 if (number % i == 0)
                 {
