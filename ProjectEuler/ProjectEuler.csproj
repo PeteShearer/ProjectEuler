@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="PrimeFactors.cs" />
     <Compile Include="PrimeNumbers.cs" />
+    <Compile Include="ProblemEight.cs" />
     <Compile Include="ProblemFive.cs" />
     <Compile Include="ProblemFour.cs" />
     <Compile Include="ProblemOne.cs" />
