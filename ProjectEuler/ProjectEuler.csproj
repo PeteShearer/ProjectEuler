@@ -46,6 +46,7 @@
     <Compile Include="ProblemEight.cs" />
     <Compile Include="ProblemFive.cs" />
     <Compile Include="ProblemFour.cs" />
+    <Compile Include="ProblemNine.cs" />
     <Compile Include="ProblemOne.cs" />
     <Compile Include="ProblemSeven.cs" />
     <Compile Include="ProblemSix.cs" />
