@@ -41,17 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PrimeFactors.cs" />
-    <Compile Include="PrimeNumbers.cs" />
-    <Compile Include="ProblemEight.cs" />
-    <Compile Include="ProblemFive.cs" />
-    <Compile Include="ProblemFour.cs" />
-    <Compile Include="ProblemNine.cs" />
-    <Compile Include="ProblemOne.cs" />
-    <Compile Include="ProblemSeven.cs" />
-    <Compile Include="ProblemSix.cs" />
-    <Compile Include="ProblemThree.cs" />
-    <Compile Include="ProblemTwo.cs" />
+    <Compile Include="Helpers\PrimeFactors.cs" />
+    <Compile Include="Helpers\PrimeNumbers.cs" />
+    <Compile Include="Problems 1-10\ProblemEight.cs" />
+    <Compile Include="Problems 1-10\ProblemFive.cs" />
+    <Compile Include="Problems 1-10\ProblemFour.cs" />
+    <Compile Include="Problems 1-10\ProblemNine.cs" />
+    <Compile Include="Problems 1-10\ProblemOne.cs" />
+    <Compile Include="Problems 1-10\ProblemSeven.cs" />
+    <Compile Include="Problems 1-10\ProblemSix.cs" />
+    <Compile Include="Problems 1-10\ProblemTen.cs" />
+    <Compile Include="Problems 1-10\ProblemThree.cs" />
+    <Compile Include="Problems 1-10\ProblemTwo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
